@@ -16,9 +16,9 @@ h2{
   font-size: 1.3em;
 }
 
-.guarantee{
+#guarantee{
   border-color: white;
-  border-width: thin;
+  border-width:medium;
   border-style: dotted;
   background-color: #a7cece;
   padding: 25px;
